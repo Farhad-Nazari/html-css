@@ -21,6 +21,10 @@
     outline: 0;
     direction: rtl;
 }
+
+body {
+    width:1360px;
+}
 /* Navigation menu*/
 #navigation {
     width: 100%;
